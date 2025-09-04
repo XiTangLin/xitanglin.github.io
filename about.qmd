@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+
+Hi, my name is Tan!
+
+I'm an international student from Canada working towards my Master's of Science in Statistics and Data Science at the University of Texas at Dallas.
+
+You can often find me rock climbing, playing badminton, learning to dance, or reading a book.
+
+One thing that changed my life was joining Toastmasters, a public speaking club.
+
+After graduating, I plan on launching a career as a data scientist.
+
