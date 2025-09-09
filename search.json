@@ -7,6 +7,13 @@
     "text": "Welcome to my website!\nIt’s a place for me to learn Quatro and showcase my learning.\nPlease take a look around."
   },
   {
+    "objectID": "index.html#september-9-2025",
+    "href": "index.html#september-9-2025",
+    "title": "Xi Tang Lin",
+    "section": "September 9, 2025",
+    "text": "September 9, 2025\n\nUploaded DataFrame Podcast Review"
+  },
+  {
     "objectID": "index.html#september-8-2025",
     "href": "index.html#september-8-2025",
     "title": "Xi Tang Lin",
@@ -19,20 +26,6 @@
     "title": "Xi Tang Lin",
     "section": "September 6. 2025",
     "text": "September 6. 2025\n\nCreated website with Index, About, and CV pages.\nUploaded Website to github."
-  },
-  {
-    "objectID": "assignment1.html",
-    "href": "assignment1.html",
-    "title": "Assignment1",
-    "section": "",
-    "text": "This website was created with RStudio Quarto.\nThe Minty theme was used to create a professional look. The navigation bar includes 5 links for connecting to different areas of my content."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi, my name is Tan!\nI’m an international student from Canada working towards my Master’s of Science in Statistics and Data Science at the University of Texas at Dallas.\nYou can often find me rock climbing, playing badminton, learning to dance, or reading a book.\nOne thing that changed my life was joining Toastmasters, a public speaking club.\nAfter graduating, I plan on launching a career as a data scientist."
   },
   {
     "objectID": "cv.html",
@@ -75,5 +68,33 @@
     "title": "CV",
     "section": "Honors Bachelor of Science (Statistics, Economics, and Philosophy)",
     "text": "Honors Bachelor of Science (Statistics, Economics, and Philosophy)\nUniversity of Toronto - Toronto, Ontario, Canada\n\nDeveloped a broad range of rigorous quantitative, systematic and logical problem-solving abilities through interdisciplinary coursework."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, my name is Tan!\nI’m an international student from Canada working towards my Master’s of Science in Statistics and Data Science at the University of Texas at Dallas.\nYou can often find me rock climbing, playing badminton, learning to dance, or reading a book.\nOne thing that changed my life was joining Toastmasters, a public speaking club.\nAfter graduating, I plan on launching a career as a data scientist."
+  },
+  {
+    "objectID": "assignment1.html",
+    "href": "assignment1.html",
+    "title": "Assignment1",
+    "section": "",
+    "text": "This website was created with RStudio Quarto.\nThe Minty theme was used to create a professional look. The navigation bar includes 4 links, including a nested assignments tab, for connecting to different areas of my content.\nI learned to add images, use code chunks, and different formatting tricks (.css styles, themes, nested menus, and footers)\nEverything was going smoothly until I ran into an issue with publishing on GitHub related to building the page. I did some to research in an attempt to fix it. I eventually managed to fix it by setting up a Jekyll configuration (of some sort).\nI thought I was done but a group member ran into the same problem so I helped them fix it and posted on Teams in-case others were encountering the same issue.\n\nIris Plot\n\nplot(iris)\n\n\n\n\n\n\n\n\nAdditional References https://www.w3schools.com/html/html_css.asp"
+  },
+  {
+    "objectID": "dataFrameReview1.html",
+    "href": "dataFrameReview1.html",
+    "title": "Podcast Review 1",
+    "section": "",
+    "text": "“Master Your Inner Game to Avoid Burnout with Klaus Kleinfeld, Former CEO at Alcoa and Siemens”, is an episode of DataFramed, a weekly podcast about data and technology. Hosted by co-hosts Adel Nehme and Richie Cotton, they facilitate discussions with data science leaders, distilling insights and ideas for a broader audience. The episode emphasizes the importance of the internal mental game, in addition to external strategies, providing relatable and applicable mental tools for managing your energy and purpose with the end goal of business and life success. Despite its valuable content my favorable opinion is tainted by its lack of focus and clear actionable steps for growth, ## Managing Energy “Because a lot of people think the emotion is something that is imposed on you” - Kleinfeld (Cotton R,, 2025, 10:30). In the podcast, Kleinfeld provides various strategies for managing one’s energy like looking for the upside, rejecting others’ spreading of negative emotions, and reframing fear as taking false expectations as reality. While Kleinfeld makes good points on managing energy, the delivery of his message, a scattered collection of anecdotes and loosely supported claims, leaves the listener without a clear recommendation on achieving this. A more helpful and focused podcast would greater benefit its audience by emphasizing a specific tool instead of flooding them with whatever comes to mind. ## Productive Downtime Similar to the previous section, the podcast would be elevated by incorporating more forethought into the structure of its information. As podcasts often are, it’s a natural conversation which is better served to entertain and provide a façade of knowledge instead of deep intellectual development. However, I do agree with the message provided: that rest and downtime is critical to avoiding burnout and maintaining energy. ## Purpose-Driven Leadership The section about leadership and purpose was intriguing. Discussing the competing priorities of business performance and culture, choosing people with purpose, and maintaining one’s own purpose. It offers a few relevant questions for listeners to consider, effectively prompting reflection. Unfortunately, listeners would have benefitted from more practical actions to take for choosing between competing priorities, discerning the right people, and staying true to one’s purpose. ## Conclusion While I believe the podcast makes important points and shares useful information, the nature of its scattered delivery and shallow depth obstructs it from being more than a feel good motivator for most listeners. However, it does act as a useful reminder regarding the importance of having strong internal strategies for developing a resilient mindset for avoiding burnout. # References Cotton R. (Host). (2025, September 1) Master Your Inner Game to Avoid Burnout with Klaus Kleinfeld, Former CEO at Alcoa and Siemens. Dataframed. https://www.datacamp.com/"
+  },
+  {
+    "objectID": "dataFrameReview1.html#introduction",
+    "href": "dataFrameReview1.html#introduction",
+    "title": "Podcast Review 1",
+    "section": "",
+    "text": "“Master Your Inner Game to Avoid Burnout with Klaus Kleinfeld, Former CEO at Alcoa and Siemens”, is an episode of DataFramed, a weekly podcast about data and technology. Hosted by co-hosts Adel Nehme and Richie Cotton, they facilitate discussions with data science leaders, distilling insights and ideas for a broader audience. The episode emphasizes the importance of the internal mental game, in addition to external strategies, providing relatable and applicable mental tools for managing your energy and purpose with the end goal of business and life success. Despite its valuable content my favorable opinion is tainted by its lack of focus and clear actionable steps for growth, ## Managing Energy “Because a lot of people think the emotion is something that is imposed on you” - Kleinfeld (Cotton R,, 2025, 10:30). In the podcast, Kleinfeld provides various strategies for managing one’s energy like looking for the upside, rejecting others’ spreading of negative emotions, and reframing fear as taking false expectations as reality. While Kleinfeld makes good points on managing energy, the delivery of his message, a scattered collection of anecdotes and loosely supported claims, leaves the listener without a clear recommendation on achieving this. A more helpful and focused podcast would greater benefit its audience by emphasizing a specific tool instead of flooding them with whatever comes to mind. ## Productive Downtime Similar to the previous section, the podcast would be elevated by incorporating more forethought into the structure of its information. As podcasts often are, it’s a natural conversation which is better served to entertain and provide a façade of knowledge instead of deep intellectual development. However, I do agree with the message provided: that rest and downtime is critical to avoiding burnout and maintaining energy. ## Purpose-Driven Leadership The section about leadership and purpose was intriguing. Discussing the competing priorities of business performance and culture, choosing people with purpose, and maintaining one’s own purpose. It offers a few relevant questions for listeners to consider, effectively prompting reflection. Unfortunately, listeners would have benefitted from more practical actions to take for choosing between competing priorities, discerning the right people, and staying true to one’s purpose. ## Conclusion While I believe the podcast makes important points and shares useful information, the nature of its scattered delivery and shallow depth obstructs it from being more than a feel good motivator for most listeners. However, it does act as a useful reminder regarding the importance of having strong internal strategies for developing a resilient mindset for avoiding burnout. # References Cotton R. (Host). (2025, September 1) Master Your Inner Game to Avoid Burnout with Klaus Kleinfeld, Former CEO at Alcoa and Siemens. Dataframed. https://www.datacamp.com/"
   }
 ]
